@@ -1,4 +1,4 @@
-# DeepLearningSpecialization
+# Deep Learning Specialization on Coursera by Andrew NG
 This repository contains the assignments and projects done as part of the Deep Learning [Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
 
 ## Current Progress
