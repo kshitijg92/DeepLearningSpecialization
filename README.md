@@ -7,4 +7,4 @@ This repository contains the assignments and projects done as part of the Deep L
   - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) : DONE
   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) : DONE (Note : this had no assignments, just really awesome quizzes)
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) : DONE
-  - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) : IN PROGRESS
+  - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) : DONE
